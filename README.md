@@ -41,6 +41,8 @@ The report below shows some of the implementation details:
 https://github.com/jyl-jyl/penn-cloud-2022-Fall/blob/main/report_backend.pdf
 
 Here is a video demoing features of the storage servers:
-https://drive.google.com/file/d/1ryPkeIVJyIvWvyg3bYHlxHUyM81RCBCL/view?usp=share_link
 
+<a href="http://youtu.be/sJvhB3R1dPw" target="_blank">
+ <img src="http://youtu.be/sJvhB3R1dPw/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="10" />
+</a>
 
