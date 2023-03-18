@@ -10,7 +10,7 @@ Penn Cloud is the final project of CIS505 (University of Pennsylvania) in Fall 2
   - Jingyi Li
   - Gaoxiang Luo. 
 
-In this project, we built a platform, somewhat similar to Google Apps, with webmail service, analogous to Gmail, as well as a storage service, analogous to Google Drive.
+In this project, we built a platform, somewhat similar to Google Apps, with webmail service, analogous to Gmail, as well as a storage service, analogous to Google Drive. 
 
 The figure bellow illustrates the high-level structure of the systems (image is from project's handout):
 <p align="center">
@@ -38,6 +38,6 @@ These are some of the features implemented on the backend:
 - Load Balancing between Master Backend Server and the Group of Replicas of Storage Servers
 
 The report below shows some of the implementation details:
-![report](individual_report.pdf)
+![report](report_backend.pdf)
 
 
