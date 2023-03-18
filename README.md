@@ -40,4 +40,7 @@ These are some of the features implemented on the backend:
 The report below shows some of the implementation details:
 https://github.com/jyl-jyl/penn-cloud-2022-Fall/blob/main/report_backend.pdf
 
+Here is a video demoing features of the storage servers:
+https://drive.google.com/file/d/1ryPkeIVJyIvWvyg3bYHlxHUyM81RCBCL/view?usp=share_link
+
 
