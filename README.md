@@ -26,5 +26,18 @@ servers_** that provide a **_key-value store_** abstraction. That way, if one
 of the frontend servers crashes, users can simply be redirected to a
 different frontend server, and it is easy to launch additional frontend servers if the system becomes overloaded.
 
-Below is our proposal:
+## Implementation - Backend Key-Value Storage Servers
+My individual work focused on the backend (key-storage servers, including working with Gaoxiang on the Load Balancing (master backend servers) and individually developing the storage servers. 
+
+These are some of the features implemented on the backend:
+- Sequential Consistency among Replicas
+- Leader Election among Replicas
+- Checkpointing and Logging and Recovery from Failure
+- Key-value Store for both Texts and Binaries
+- Locking and Synchronization of the Key-value Store
+- Load Balancing between Master Backend Server and the Group of Replicas of Storage Servers
+
+The report below shows some of the implementation details:
+![report](individual_report.pdf)
+
 
