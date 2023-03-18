@@ -43,6 +43,7 @@ https://github.com/jyl-jyl/penn-cloud-2022-Fall/blob/main/report_backend.pdf
 Here is a video demoing features of the storage servers:
 
 <a href="http://youtu.be/sJvhB3R1dPw" target="_blank">
- <img src="http://youtu.be/sJvhB3R1dPw/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="10" />
+ <img src="https://github.com/jyl-jyl/penn-cloud-2022-Fall/blob/main/images/demo-thumb.png" alt="Watch the video" width="700" border="10" />
 </a>
+
 
