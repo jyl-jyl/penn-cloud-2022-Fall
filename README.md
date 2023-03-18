@@ -38,6 +38,6 @@ These are some of the features implemented on the backend:
 - Load Balancing between Master Backend Server and the Group of Replicas of Storage Servers
 
 The report below shows some of the implementation details:
-![report](report_backend.pdf)
+https://github.com/jyl-jyl/penn-cloud-2022-Fall/blob/main/report_backend.pdf
 
 
