@@ -7,6 +7,7 @@
 
 Penn Cloud is the final project of CIS505 (University of Pennsylvania) in Fall 2022. The team members of Penn Cloud are: 
   - Yao Tong
+  - Lucan Yan
   - Jingyi Li
   - Gaoxiang Luo. 
 
