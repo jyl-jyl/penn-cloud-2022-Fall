@@ -13,7 +13,7 @@ Penn Cloud is the final project of CIS505 (University of Pennsylvania) in Fall 2
 
 In this project, we built a platform, somewhat similar to Google Apps, with webmail service, analogous to Gmail, as well as a storage service, analogous to Google Drive. 
 
-The figure bellow illustrates the high-level structure of the systems (image is from project's handout):
+The figure bellow illustrates the high-level structure of the systems (image is from the project's handout @Linh Thi Xuan Phan):
 <p align="center">
 <img src="https://github.com/jyl-jyl/penn-cloud-2022-Fall/blob/main/images/structure.png" width="400"/>
 </p>
